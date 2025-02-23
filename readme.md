@@ -20,3 +20,17 @@
 ### Dataset
 
 * https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
+
+### Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+*download nltk data as necessary*
+
+### Usage
+
+```bash
+python src/main.py
+```
